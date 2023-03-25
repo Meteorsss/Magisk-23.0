@@ -2,11 +2,11 @@
 	"magisk": {
 		"version": "23.0",
 		"versionCode": "23000",
-		"link": "https://cdn.jsdelivr.net/gh/Meteorsss/Magisk-23.0@raw/main/file/Magisk-v23.0.apk",
+		"link": "https://github.com/Meteorsss/Magisk-23.0/raw/main/file/Magisk-v23.0.apk",
 		"note": "https://cdn.jsdelivr.net/gh/Meteorsss/Magisk-23.0@main/README.md"
 	},
 	"stub": {
 		"versionCode": "21",
-		"link": "https://cdn.jsdelivr.net/gh/Meteorsss/Magisk-23.0@raw/main/file/stub-release.apk"
+		"link": "https://github.com/Meteorsss/Magisk-23.0/raw/main/file/stub-release.apk"
 	}
 }
